@@ -1,5 +1,5 @@
 package com.example.test002;
-//수정되면 좋겠다
+//수정되면
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
